@@ -1,4 +1,28 @@
-p{
-    color: green;
-    font-size: 72;
+
+
+#intro{
+    color: black;
+    font-size: 18px ;
+
+}
+
+ .heading{
+    margin: 0;
+    font-size: 30px;
+    text-align: center;
+    width: 100%; 
+    background-color: lightblue;
+    padding: 25px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+    box-sizing: border-box;
+} 
+
+
+body{
+    margin: 0px;
+}
+
+.normal{
+    margin: 10px;
 }
